@@ -10,6 +10,7 @@ namespace Scratch
     {
         static void Main(string[] args)
         {
+            var a = Guid.NewGuid().ToString();
         }
     }
 }

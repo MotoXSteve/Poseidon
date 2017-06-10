@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scratch", "Scratch\Scratch.csproj", "{474AB2AF-3180-4A81-B6C5-81214B52EB6A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoseidonWeb", "PoseidonWeb\PoseidonWeb.csproj", "{4BBFDABC-859E-40BE-97F1-7FC8815C75B9}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "PoseidonCloudService", "PoseidonCloudService\PoseidonCloudService.ccproj", "{3A8F9A72-4F67-461B-9A2E-704F52E095F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{474AB2AF-3180-4A81-B6C5-81214B52EB6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{474AB2AF-3180-4A81-B6C5-81214B52EB6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{474AB2AF-3180-4A81-B6C5-81214B52EB6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBFDABC-859E-40BE-97F1-7FC8815C75B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBFDABC-859E-40BE-97F1-7FC8815C75B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBFDABC-859E-40BE-97F1-7FC8815C75B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBFDABC-859E-40BE-97F1-7FC8815C75B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A8F9A72-4F67-461B-9A2E-704F52E095F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A8F9A72-4F67-461B-9A2E-704F52E095F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A8F9A72-4F67-461B-9A2E-704F52E095F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A8F9A72-4F67-461B-9A2E-704F52E095F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
